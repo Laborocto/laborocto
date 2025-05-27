@@ -1,2 +1,2 @@
 # laborocto
-Main repo – overview, discussions, README
+Main repo – overview, wiki, discussions, README
